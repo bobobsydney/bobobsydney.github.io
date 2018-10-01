@@ -1,0 +1,31 @@
+* {
+  font-family: "Chalkboard", "Helvetica", sans-serif;
+}
+
+h1 {
+  color: red;
+}
+h2 {
+  color: blue;
+}
+#favourites {
+  color: black;
+}
+
+/* h2 and p tag color change */
+.colorPurple {
+  color: rgb(105, 32, 109);
+}
+
+#greenBackground {
+  background-color: rgba(140, 242, 179, 0.9);
+}
+
+p {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
